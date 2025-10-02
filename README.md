@@ -9,13 +9,13 @@ NOTE: These three tasks are all performed in MATLAB. All three tasks use differe
 
 
 ### Task 1 - For-loop with Fixed Number of Random Points
-- Generates random points for increasing Number of Runs.  
+- Generates random points for an increasing Number of Runs.  
 - Computes π Estimate, Absolute Error, and Elapsed Time.  
 - Plots in Task:  
   - Computed π versus Number of Points
     - Reference line of True π included
   - Absolute error versus Number of Points
-  - Absolute error (Precision) vs Elapsed Time (COmputational Cost)
+  - Absolute error (Precision) vs Elapsed Time (Computational Cost)
 
 ### Task 2: While-loop to Compute π to a Specified Level of Precision
 NOTE: This is a modified version of Task 1.
